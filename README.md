@@ -12,10 +12,8 @@ Repositori ini berisi kode sumber untuk membuat animasi atau ilustrasi bunga men
 - **CSS** untuk gaya dan animasi bunga.
 - **JavaScript** untuk interaktivitas.
 
-
-```
-
 ## 🚀 **Cara Menjalankan Proyek**
+
 1. **Clone repositori ini** ke komputer:
    ```sh
    git clone https://github.com/nolanhakim/kodingan-bunga.git
